@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  machineOnlyCode.cpp
+d:\hulucode\machineonlycode\machineonlycode\machineonlycode\machineonlycode.cpp(152): warning C4172: 返回局部变量或临时变量的地址: getUuid
+  machineOnlyCode.vcxproj -> D:\hulucode\machineOnlyCode\machineOnlyCode\Debug\machineOnlyCode.exe
+  machineOnlyCode.vcxproj -> D:\hulucode\machineOnlyCode\machineOnlyCode\Debug\machineOnlyCode.pdb (Full PDB)

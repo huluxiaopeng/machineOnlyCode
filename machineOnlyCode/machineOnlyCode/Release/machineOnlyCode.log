@@ -1,0 +1,9 @@
+﻿  machineOnlyCode.cpp
+  正在生成代码
+d:\hulucode\machineonlycode\machineonlycode\machineonlycode\machineonlycode.cpp(148): warning C4172: 返回局部变量或临时变量的地址: getUuid
+  1 of 103 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  machineOnlyCode.vcxproj -> D:\hulucode\machineOnlyCode\machineOnlyCode\Release\machineOnlyCode.exe
+  machineOnlyCode.vcxproj -> D:\hulucode\machineOnlyCode\machineOnlyCode\Release\machineOnlyCode.pdb (Full PDB)

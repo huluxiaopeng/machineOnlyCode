@@ -1,2 +1,3 @@
 # machineOnlyCode
-getmachineonlycode have cpuId/DiskID/BIOS UUID
+get machineonlycode have cpuId/DiskID/BIOS UUID
+
